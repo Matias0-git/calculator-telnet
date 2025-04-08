@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2020", // Or "ES2022" or later, depending on your Node.js version
+    "module": "CommonJS", // Or "ESNext" if you are using ES modules.
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "esModuleInterop": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "sourceMap": true // Optional: For debugging
+  },
+  "include": ["src/services/**/*.ts"] // Important: Include server files
+}
