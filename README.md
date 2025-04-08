@@ -9,7 +9,7 @@ This project combines a modern web interface with a classic telnet server to pro
 
 ### Check out the demo video below to see the app's features.
 
-[![Watch the video](https://img.youtube.com/vi/vKeohqQr8iE/0.jpg)]https://youtu.be/vKeohqQr8iE)
+[![Watch the video](https://img.youtube.com/vi/vKeohqQr8iE/0.jpg)](https://youtu.be/vKeohqQr8iE)
 
 ## Features
 
